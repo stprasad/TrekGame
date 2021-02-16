@@ -13,6 +13,8 @@ Made the file as an md
 - Extend to tournament play mode, Same game difficulty, different players
 - Introduce Romulans, Vegans, Andorians, Xindi
 
+https://almy.us/sst.html has some additional features built in
+
 Christopher Pugh suggestions
 
 - flavor text / communications from enemy ships
