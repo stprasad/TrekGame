@@ -14,15 +14,17 @@ Made the file as an md
 - Introduce Romulans, Vegans, Andorians, Xindi
 
 https://almy.us/sst.html has some additional features not available in the MGBY version.
-- DEATHRAY
-- MINES
-- PROBE
-- CLOAK
-- ORBIT
-- CRYSTALS
-- PLANET
-- CAPTURE
-- TRANSFER
+- DEATHRAY: Ultimate weapon, blow up entire quadrant
+- MINES: Static weapons, can be placed in quadrants and will destroy moving objects
+- PROBE: Moves to quadrant and sends details
+- CLOAK: Hide the Star Ship Enterprise, no enemy damage per turn
+- ORBIT: Like Dock but moves around planet, needed to send Lander
+- CRYSTALS: Collect Crystals from planet surface
+- PLANET: Object, may contain crystals
+- CAPTURE: Transfer Klingon fuel, weapons, personnel to SSE
+- TRANSFER: 
+- LANDER: Send lander to surface
+- CALL: Check for intel from Starfleet Command
 
 Python version
 https://github.com/ohwada/Star_Trek_Text_Game/blob/master/game_rule.md
