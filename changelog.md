@@ -12,6 +12,9 @@ Made the file as an md
 - Introduce Ajax, PHP to save a leaderboard and sign in to save games
 - Extend to tournament play mode, Same game difficulty, different players
 - Introduce Romulans, Vegans, Andorians, Xindi
+- Make Starbases destroyed at random by Klingons.
+- Make Starbases looted at random by Romulans
+- Allow trade with Romulans
 
 https://almy.us/sst.html has some additional features not available in the MGBY version.
 - DEATHRAY: Ultimate weapon, blow up entire quadrant
