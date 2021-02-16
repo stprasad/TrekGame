@@ -15,9 +15,11 @@ Made the file as an md
 
 https://almy.us/sst.html has some additional features built in
 - DEATHRAY
+- MINES
 - PROBE
 - CLOAK
 - ORBIT
+- CRYSTALS
 - PLANET
 
 Christopher Pugh suggestions
