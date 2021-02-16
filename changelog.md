@@ -14,6 +14,11 @@ Made the file as an md
 - Introduce Romulans, Vegans, Andorians, Xindi
 
 https://almy.us/sst.html has some additional features built in
+- DEATHRAY
+- PROBE
+- CLOAK
+- ORBIT
+- PLANET
 
 Christopher Pugh suggestions
 
