@@ -22,6 +22,14 @@ https://almy.us/sst.html has some additional features built in
 - CRYSTALS
 - PLANET
 
+Python version
+https://github.com/ohwada/Star_Trek_Text_Game/blob/master/game_rule.md
+https://pypi.org/project/python-wars-solo/
+
+Similar genre
+https://github.com/tslumley/OregonTrail
+https://github.com/topherPedersen/OregonTrail1978
+
 Christopher Pugh suggestions
 
 - flavor text / communications from enemy ships
