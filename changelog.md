@@ -13,7 +13,7 @@ Made the file as an md
 - Extend to tournament play mode, Same game difficulty, different players
 - Introduce Romulans, Vegans, Andorians, Xindi
 
-https://almy.us/sst.html has some additional features built in
+https://almy.us/sst.html has some additional features not available in the MGBY version.
 - DEATHRAY
 - MINES
 - PROBE
