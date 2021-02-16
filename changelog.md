@@ -21,6 +21,8 @@ https://almy.us/sst.html has some additional features not available in the MGBY 
 - ORBIT
 - CRYSTALS
 - PLANET
+- CAPTURE
+- TRANSFER
 
 Python version
 https://github.com/ohwada/Star_Trek_Text_Game/blob/master/game_rule.md
